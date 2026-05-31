@@ -23,22 +23,30 @@ Developed an interactive Sales Analysis Dashboard in Microsoft Excel to analyze 
 * Magnam Set and Quia Gift were among the top-performing products.
 * Imphal, Dhanbad, and Kavali recorded the highest order volumes.
 
-## Tools Used
+## Tools & Techniques Used
 
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Slicers
-* Data Cleaning
-* Data Visualization
+- Microsoft Excel
+- Power Query (Data Cleaning & Transformation)
+- Power Pivot
+- Excel Data Model
+- Data Relationships
+- DAX Measures
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Timeline Slicers
+- Interactive Dashboard Design
 
 ## Skills Demonstrated
 
-* Data Analysis
-* Dashboard Development
-* KPI Reporting
-* Business Intelligence
-* Data Visualization
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Measure Creation
+- KPI Development
+- Sales Data Analysis
+- Business Intelligence Reporting
+- Dashboard Development
+- Data Visualization
 
 ## Author
 
